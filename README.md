@@ -1,4 +1,4 @@
-# blocexample
+# Bloc ejemplo para manejador de estado (CONTADOR)
 
 A new Flutter project.
 
